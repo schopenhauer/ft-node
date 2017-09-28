@@ -1,0 +1,22 @@
+{
+  "name": "ft-node",
+  "version": "1.0.0",
+  "description": "FT Developer API wrapper for Node.js",
+  "main": "lib/ft.js",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:schopenhauer/ft-node.git"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha test/mocha.js"
+  },
+  "author": "schopenhauer",
+  "license": "MIT"
+}
