@@ -4,7 +4,7 @@
   "description": "FT Developer API wrapper for Node.js",
   "main": "lib/ft.js",
   "dependencies": {
-    "request": "^2.83.0",
+    "request": "^2.87.0",
     "request-promise": "^4.2.2"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "git@github.com:schopenhauer/ft-node.git"
   },
   "devDependencies": {
-    "mocha": "^3.5.3"
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "test": "mocha test/mocha.js"
