@@ -1,7 +1,5 @@
 # ft-node
 
-<a href="https://codeclimate.com/github/schopenhauer/ft-node"><img src="https://codeclimate.com/github/schopenhauer/ft-node/badges/gpa.svg" /></a>
-
 A basic wrapper for the Financial Times' Developer API written in Node.js. Please refer to the [official documentation](https://developer.ft.com/) for more information on API endpoints.
 
 ## Installation
